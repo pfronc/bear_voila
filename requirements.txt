@@ -1,6 +1,9 @@
-voila
-fastai>=2
-pillow<7
-packaging
+fastai>=2.0.0
+graphviz
 ipywidgets
-ipython_genutils
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
