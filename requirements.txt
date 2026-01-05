@@ -6,9 +6,8 @@ torchvision==0.16.2
 ipywidgets
 matplotlib
 pandas
-scikit-learn
 sentencepiece
 azure-cognitiveservices-search-imagesearch
 graphviz
 voila
-
+numpy==1.26.4
