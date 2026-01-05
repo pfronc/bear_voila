@@ -12,3 +12,4 @@ graphviz
 voila
 numpy==1.26.4
 fasttransform
+cloudpickle>=2.2
