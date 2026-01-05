@@ -11,3 +11,4 @@ azure-cognitiveservices-search-imagesearch
 graphviz
 voila
 numpy==1.26.4
+fasttransform
